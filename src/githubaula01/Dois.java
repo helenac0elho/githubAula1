@@ -4,20 +4,16 @@
  * and open the template in the editor.
  */
 package githubaula01;
-//import java.util.Scanner;
+import java.util.Scanner;
 
 /**
  *
  * @author helena.souza1
  */
-public class GithubAula01 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
-        System.out.println("Bem vindo ao Git");
+public class Dois {
+    public static void main (String [] args){
+        Scanner leia=new Scanner(System.in);
+        
     }
     
 }
